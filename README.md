@@ -75,8 +75,11 @@ ID, Name, Gender, Age, Country, Language, Skill, Years of Experience, Hourly Sal
 
 #### 📂 Pages
 1. **Overview** - High-level metrics and global distribution
+ ![ov](Overview.png)
 2. **Performance Insights** - Ratings, experience, and client satisfaction
+![ov](PerformanceInsights.png)
 3. **Demographics & Salary** - Gender, country, and payment analysis
+![ov](Demographics&Skills.png)
 
 #### 📊 Visuals Used
 - **Bar Charts** - Skill distribution and country analysis
@@ -155,4 +158,4 @@ ID, Name, Gender, Age, Country, Language, Skill, Years of Experience, Hourly Sal
 ---
 
 ## 📞 Contact
-For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](your-linkedin-profile-url)
+For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/youssef-gebreal-297a43338/)
